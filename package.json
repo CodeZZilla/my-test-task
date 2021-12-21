@@ -1,0 +1,22 @@
+{
+  "name": "my-test-task",
+  "version": "1.0.0",
+  "description": "My test task :)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "google-auth-library": "^7.11.0",
+    "google-spreadsheet": "^3.2.0",
+    "googleapis": "^92.0.0"
+  },
+  "keywords": [
+    "test",
+    "task"
+  ],
+  "author": "Valik Kit",
+  "license": "ISC"
+}
